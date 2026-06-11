@@ -16,6 +16,7 @@ A curated collection of English learning resources, tools, and materials for lan
 
 - [CMU Pronouncing Dictionary](https://en.wikipedia.org/wiki/CMU_Pronouncing_Dictionary) – An open-source pronunciation dictionary for North American English.
 - [Forvo](https://forvo.com/) – The largest pronunciation dictionary featuring native speaker recordings.
+- [Pronounce](https://pronounce.renlab.ai/) – A pronunciation dictionary for tech and developer jargon (kubectl, nginx, JSON) with IPA, audio, source citations, and a quiz mode.
 - [Speech (GitHub)](https://github.com/huytd/speech) – An online voice recorder that helps practice and improve pronunciation.
 - [WikSpeak](https://wikspeak.sourceforge.net/) – A tool for analyzing the correlation between pronunciation and spelling of English words.
 - [YouGlish](https://youglish.com/) – Learn pronunciation from real YouTube videos.
